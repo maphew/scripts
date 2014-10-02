@@ -1,0 +1,1 @@
+xcopy /y/s %~dp0\bin\*.* c:\bin\
